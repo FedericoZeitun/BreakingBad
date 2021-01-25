@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto fue creado con React.js utilizando una Api de frases de la serie Breaking Bad, donde cada vez que clickeamos el boton obtenemos una frase nueva con su autor.
 
 ## Available Scripts
 
